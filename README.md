@@ -1,6 +1,9 @@
-# Ender 3 - Marlin
+# Ender 3 - Barbie - Marlin
 
-My settings for Marlin in my 3d printer, an Ender 3, and its upgrades, printed or purchased.
+My settings for Marlin in my 3d printer, an Ender 3 which I named Barbie, and its upgrades, printed or purchased.
+Forked from [Marlin's repository](https://github.com/MarlinFirmware/Marlin);
+
+And the code for the touchscreen BTT-TFT35, forked from [here](https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware).
 
 ## Purchased upgrades:
 
@@ -8,15 +11,15 @@ My settings for Marlin in my 3d printer, an Ender 3, and its upgrades, printed o
 - [Nozzles](https://produto.mercadolivre.com.br/MLB-3283122711-5x-bicos-mk-ender-3-s1-propluscr-6-se-cr-10-ender-5-v3-_JM?quantity=2) :heavy_check_mark:
 - [Dual Z-Axis](https://pt.aliexpress.com/item/1005001699139678.html?spm=a2g0o.order_list.order_list_main.31.20e4caa4VstYAh&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [BTT SKR Mini E3 V3](https://pt.aliexpress.com/item/1005003519885899.html?spm=a2g0o.order_list.order_list_main.10.20e4caa4VstYAh&gatewayAdapt=glo2bra) :heavy_check_mark:
-- [Blanket for Heated Bed](https://pt.aliexpress.com/item/32969500959.html?spm=a2g0o.order_list.order_list_main.21.20e4caa4VstYAh&gatewayAdapt=glo2bra) :heavy_check_mark:
+- [Isolation Blanket for Heated Bed](https://pt.aliexpress.com/item/32969500959.html?spm=a2g0o.order_list.order_list_main.21.20e4caa4VstYAh&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [Red Hand Twist Leveling Nut](https://pt.aliexpress.com/item/1005002492320752.html?spm=a2g0o.order_detail.order_detail_item.12.2a5e4c7frX9HCR&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [X and Y Belt Tensioner](https://pt.aliexpress.com/item/4000253369657.html?spm=a2g0o.order_list.order_list_main.17.20e4caa4GX1bqt&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [BTT DCDC5V 1.0](https://pt.aliexpress.com/item/4000474224890.html?spm=a2g0o.order_list.order_list_main.4.20e4caa4GX1bqt&gatewayAdapt=glo2bra) 
-- [Mirror/Glass Bed](https://shopee.com.br/Base-Mesa-compat%C3%ADvel-com-impressora-3D-Creality-Ender-3-Vidro-e-Espelho-235mm-com-4-Presilhas-e-Adesivo-l%C3%ADquido-i.395292937.8919703149) :heavy_check_mark:
+- [PEI Magnetic Build Plate](https://www.aliexpress.com/item/1005005536007858.html?spm=a2g0o.order_list.order_list_main.4.20e4caa47afA3l&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [Sprite Pro Kit (Extruder/Hotend)](https://pt.aliexpress.com/item/1005005048345778.html?spm=a2g0o.order_list.order_list_main.69.4b90caa4iFrj09&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [SD Card to TF Card Adapter](https://www.aliexpress.com/item/1005004941223088.html?spm=a2g0o.cart.0.0.2b9f38daHhkuYc&mp=1) :heavy_check_mark:
+- [Flexible Z Axis Coupler](https://pt.aliexpress.com/item/10000388878608.html?spm=a2g0o.cart.0.0.25267f067JcsdN&mp=1&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [2 Stepper Motors Heatsinks (X and Y)](https://pt.aliexpress.com/item/1005004067477643.html?spm=a2g0o.cart.0.0.25267f067JcsdN&mp=1&gatewayAdapt=glo2bra) :construction:
-- [Flexible Z Axis Coupler](https://pt.aliexpress.com/item/10000388878608.html?spm=a2g0o.cart.0.0.25267f067JcsdN&mp=1&gatewayAdapt=glo2bra) :construction:
 
 ## Upgrades that need code change:
 
@@ -46,9 +49,9 @@ My settings for Marlin in my 3d printer, an Ender 3, and its upgrades, printed o
 - [Nozzle Box](https://www.thingiverse.com/thing:4716051) :heavy_check_mark:
 - [SD Card Case](https://www.thingiverse.com/thing:5166646) :heavy_check_mark:
 
-## Old upgrades
+## Old upgrades:
 
-- [PEI Magnetic Build Plate](https://www.aliexpress.com/item/1005005536007858.html?spm=a2g0o.order_list.order_list_main.4.20e4caa47afA3l&gatewayAdapt=glo2bra) 
+- [Mirror/Glass Bed](https://shopee.com.br/Base-Mesa-compat%C3%ADvel-com-impressora-3D-Creality-Ender-3-Vidro-e-Espelho-235mm-com-4-Presilhas-e-Adesivo-l%C3%ADquido-i.395292937.8919703149) 
 - [Tools Holder](https://www.thingiverse.com/thing:4743186)
 - [Knob Cap for Display](https://www.thingiverse.com/thing:3611103)
 - [Dislpay Cover](https://www.thingiverse.com/thing:3670360)
