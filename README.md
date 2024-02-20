@@ -1,9 +1,12 @@
-# Ender 3 - Barbie - Marlin
+# Ender 3 - Barbie - Marlin - Klipper
 
-My settings for Marlin in my 3d printer, an Ender 3 which I named Barbie, and its upgrades, printed or purchased.
-Forked from [Marlin's repository](https://github.com/MarlinFirmware/Marlin);
+My settings for Marlin and Klipper in my 3d printer, an Ender 3 which I named Barbie, and its upgrades, printed or purchased.
 
-And the code for the touchscreen BTT-TFT35, forked from [here](https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware).
+First, my configurations for Marlin, which I don't use anymore, forked from [here](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.1.x).
+
+Second, my configurations for the touchscreen BTT TFT35, forked from [here](https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware).
+
+Finally, my configurations for Klipper, which I am using now with a BTT PI V1.2 and a BTT TFT35 SPI V2.1.
 
 ## Purchased upgrades:
 
@@ -17,7 +20,6 @@ And the code for the touchscreen BTT-TFT35, forked from [here](https://github.co
 - [BTT DCDC5V 1.0](https://pt.aliexpress.com/item/4000474224890.html?spm=a2g0o.order_list.order_list_main.4.20e4caa4GX1bqt&gatewayAdapt=glo2bra) 
 - [PEI Magnetic Build Plate](https://www.aliexpress.com/item/1005005536007858.html?spm=a2g0o.order_list.order_list_main.4.20e4caa47afA3l&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [Sprite Pro Kit (Extruder/Hotend)](https://pt.aliexpress.com/item/1005005048345778.html?spm=a2g0o.order_list.order_list_main.69.4b90caa4iFrj09&gatewayAdapt=glo2bra) :heavy_check_mark:
-- [SD Card to TF Card Adapter](https://www.aliexpress.com/item/1005004941223088.html?spm=a2g0o.cart.0.0.2b9f38daHhkuYc&mp=1) :heavy_check_mark:
 - [Flexible Z Axis Coupler](https://pt.aliexpress.com/item/10000388878608.html?spm=a2g0o.cart.0.0.25267f067JcsdN&mp=1&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [2 Stepper Motors Heatsinks (X and Y)](https://pt.aliexpress.com/item/1005004067477643.html?spm=a2g0o.cart.0.0.25267f067JcsdN&mp=1&gatewayAdapt=glo2bra) :construction:
 
@@ -26,6 +28,8 @@ And the code for the touchscreen BTT-TFT35, forked from [here](https://github.co
 - [BLTouch](https://produto.mercadolivre.com.br/MLB-1568231923-bl-touch-sensor-auto-nivelamento-impressora-3d-cnc-bltouch-_JM) :heavy_check_mark:
 - [BTT TFT35 E3 V3.0](https://pt.aliexpress.com/item/4000365519309.html?spm=a2g0o.order_list.order_list_main.35.20e4caa47ACQyZ&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [Neopixel](https://pt.aliexpress.com/item/1005005246257542.html?spm=a2g0o.order_list.order_list_main.23.20e4caa47ACQyZ&gatewayAdapt=glo2bra) :heavy_check_mark:
+- [BTT PI V1.2](https://pt.aliexpress.com/item/1005006045269463.html?spm=a2g0o.order_list.order_list_main.65.1b39caa4mPYDFK&gatewayAdapt=glo2bra) :construction:
+- [BTT TFT35 SPI V2.1](https://pt.aliexpress.com/item/1005005114935485.html?spm=a2g0o.order_list.order_list_main.41.1b39caa4mPYDFK&gatewayAdapt=glo2bra) :construction:
 
 ## Printed upgrades:
 
@@ -47,7 +51,6 @@ And the code for the touchscreen BTT-TFT35, forked from [here](https://github.co
 - [Light Bar](https://www.thingiverse.com/thing:5376731) :heavy_check_mark:
 - [SD Card Adapter](https://www.thingiverse.com/thing:2917151) :heavy_check_mark:
 - [Nozzle Box](https://www.thingiverse.com/thing:4716051) :heavy_check_mark:
-- [SD Card Case](https://www.thingiverse.com/thing:5166646) :heavy_check_mark:
 
 ## Old upgrades:
 
@@ -66,4 +69,6 @@ And the code for the touchscreen BTT-TFT35, forked from [here](https://github.co
 - [Hotend Cable Clip](https://www.thingiverse.com/thing:4615595)
 - [Satsana w/ BLTouch Support](https://www.printables.com/model/58601-satsana-ender3-bltouch-fixed)
 - [Runout Filament Sensor Holder](https://www.thingiverse.com/thing:6098956)
-- [Cable Clip for Metal Extruder](https://www.thingiverse.com/thing:4178305) 
+- [Cable Clip for Metal Extruder](https://www.thingiverse.com/thing:4178305)
+- [SD Card to TF Card Adapter](https://www.aliexpress.com/item/1005004941223088.html?spm=a2g0o.cart.0.0.2b9f38daHhkuYc&mp=1)
+- [SD Card Case](https://www.thingiverse.com/thing:5166646)
