@@ -25,7 +25,7 @@ Finally, my configurations for Klipper, which I am using now with a BTT PI V1.2 
 
 ## Upgrades that need code change:
 
-- [BLTouch](https://produto.mercadolivre.com.br/MLB-1568231923-bl-touch-sensor-auto-nivelamento-impressora-3d-cnc-bltouch-_JM) :heavy_check_mark:
+- [CR-Touch](https://pt.aliexpress.com/item/1005006146076095.html?spm=a2g0o.order_list.order_list_main.83.5fb6caa42MGo21&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [BTT TFT35 E3 V3.0](https://pt.aliexpress.com/item/4000365519309.html?spm=a2g0o.order_list.order_list_main.35.20e4caa47ACQyZ&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [Neopixel](https://pt.aliexpress.com/item/1005005246257542.html?spm=a2g0o.order_list.order_list_main.23.20e4caa47ACQyZ&gatewayAdapt=glo2bra) :heavy_check_mark:
 - [BTT PI V1.2](https://pt.aliexpress.com/item/1005006045269463.html?spm=a2g0o.order_list.order_list_main.65.1b39caa4mPYDFK&gatewayAdapt=glo2bra) :construction:
